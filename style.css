@@ -20,7 +20,7 @@ h3{
 
 p {
     font-size: 14px;
-    color: black;
+    color: white
 	font-family:"montserrat";
 }
 table{
@@ -43,9 +43,21 @@ td {
 } 
 
 	
-body {
-	background-color: #7ed6df;
-	font-family:"montserrat";
+body, html {
+	color:white;
+    height: 100%; 
+    /* The image used */
+    background-image: url("https://media1.tenor.com/images/467d353f7e2d43563ce13fddbb213709/tenor.gif?itemid=12136175");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
 }
 
 textarea { 
