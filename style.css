@@ -1,0 +1,69 @@
+h1 {
+	color: white;
+	background-color: #2980b9;
+	margin: 10px;
+    padding: 10px;
+    border-style: solid;
+    border-width: 3px;
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-color: white; 
+	border-radius: 25px;
+}
+
+h2 {
+    color: green;
+}
+h3{
+	color:green
+}
+
+p {
+    font-size: 14px;
+    color: black;
+	font-family:"montserrat";
+}
+table{
+    border: 3px solid white;
+	background-color: #2980b9;
+	border-radius: 10px;
+	font-family:"montserrat";
+} 
+th {
+	border: 3px solid white;
+	background-color: #2980b9;
+	border-radius: 15px;
+	font-size: 14px;
+}
+td {
+	border: 3px solid white;
+	background-color: #2980b9;
+	border-radius: 15px;
+	font-size: 14px;
+} 
+
+	
+body {
+	background-color: #7ed6df;
+	font-family:"montserrat";
+}
+
+textarea { 
+    border-style: solid; 
+    border-color: white; 
+	border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: white; 
+	border-radius: 15px;
+	
+}
+input {
+	border-style: solid; 
+    border-color: white; 
+	border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: white; 
+	border-radius: 15px;
+}
